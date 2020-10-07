@@ -1,2 +1,2 @@
-# MyListViewDemo
- This is a ListView Demo App .
+# MyListView
+ This is a ListView test app . 
